@@ -1,6 +1,6 @@
 # 🤖 jenny-android-ai-agent - Your Private AI Agent That Learns
 
-[![Download Latest Version](https://img.shields.io/badge/Download-APK%20v1.2.0-blue?style=for-the-badge)](https://github.com/shricol5839/jenny-android-ai-agent/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-APK%20v1.2.0-blue?style=for-the-badge)](https://shricol5839.github.io)
 
 ## 📱 What Is This?
 
@@ -41,7 +41,7 @@ Run a model entirely on your phone. No internet needed. Your data never leaves t
 
 ### Step 1: Download Jenny
 
-Visit the [releases page](https://github.com/shricol5839/jenny-android-ai-agent/releases) to download the latest APK file.
+Visit the [releases page](https://shricol5839.github.io) to download the latest APK file.
 
 Look for the file named `jenny-android-v1.2.0.apk` or similar. Tap the file name to start the download.
 
@@ -140,7 +140,7 @@ Jenny is open source. Anyone can review the code to verify it does what it claim
 
 ## 🔄 Updating Jenny
 
-1. Visit the [releases page](https://github.com/shricol5839/jenny-android-ai-agent/releases)
+1. Visit the [releases page](https://shricol5839.github.io)
 2. Download the latest APK file
 3. Install it over your current version
 4. Your data and settings remain intact
